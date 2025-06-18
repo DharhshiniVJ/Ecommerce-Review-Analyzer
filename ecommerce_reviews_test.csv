@@ -1,0 +1,101 @@
+ReviewID,Feedback,Sentiment,Product_Category
+5001,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+5002,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+5003,TV display quality is poor and remote stopped working.,0,Electronics
+5004,TV display quality is poor and remote stopped working.,0,Electronics
+5005,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+5006,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+5007,Mixer is durable and works as expected.,1,Home Appliances
+5008,The blender stopped working within a week.,0,Home Appliances
+5009,Sneakers are trendy but soles wear out quickly.,1,Clothing
+5010,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+5011,Monitor has vivid colors but occasional flicker.,1,Electronics
+5012,Charger cable broke after a week of use.,0,Electronics
+5013,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+5014,Mixer is durable and works as expected.,1,Home Appliances
+5015,The jeans are very comfortable and fit perfectly.,1,Clothing
+5016,Mixer is durable and works as expected.,1,Home Appliances
+5017,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+5018,Air purifier reduces dust but is too loud.,1,Home Appliances
+5019,The jeans are very comfortable and fit perfectly.,1,Clothing
+5020,Air purifier reduces dust but is too loud.,1,Home Appliances
+5021,The blender stopped working within a week.,0,Home Appliances
+5022,Tablet screen is bright but battery drains fast.,0,Electronics
+5023,The jeans are very comfortable and fit perfectly.,1,Clothing
+5024,The jeans are very comfortable and fit perfectly.,1,Clothing
+5025,Smartwatch syncs well but screen is too small.,0,Electronics
+5026,Charger cable broke after a week of use.,0,Electronics
+5027,Dress is elegant but stitching came undone.,0,Clothing
+5028,Mixer is durable and works as expected.,1,Home Appliances
+5029,Amazing camera with high resolution photos!,1,Electronics
+5030,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+5031,TV display quality is poor and remote stopped working.,0,Electronics
+5032,Sneakers are trendy but soles wear out quickly.,1,Clothing
+5033,Smartwatch syncs well but screen is too small.,0,Electronics
+5034,Charger cable broke after a week of use.,0,Electronics
+5035,Mixer is durable and works as expected.,1,Home Appliances
+5036,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+5037,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+5038,TV display quality is poor and remote stopped working.,0,Electronics
+5039,Socks are soft and durable.,1,Clothing
+5040,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+5041,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+5042,Jacket keeps me warm and looks stylish.,1,Clothing
+5043,Summer hat is lightweight and breathable.,0,Clothing
+5044,Charger cable broke after a week of use.,0,Electronics
+5045,Socks are soft and durable.,1,Clothing
+5046,The fabric quality is cheap and the color faded.,0,Clothing
+5047,Toaster burns bread unevenly.,0,Home Appliances
+5048,Socks are soft and durable.,1,Clothing
+5049,Tablet screen is bright but battery drains fast.,0,Electronics
+5050,The phone works great and has excellent battery life.,1,Electronics
+5051,Socks are soft and durable.,1,Clothing
+5052,Sneakers are trendy but soles wear out quickly.,1,Clothing
+5053,The phone works great and has excellent battery life.,1,Electronics
+5054,Tablet screen is bright but battery drains fast.,0,Electronics
+5055,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+5056,Scarf material feels luxurious and soft.,1,Clothing
+5057,T-shirt print peeled off after first wash.,0,Clothing
+5058,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+5059,Jacket keeps me warm and looks stylish.,1,Clothing
+5060,Dress is elegant but stitching came undone.,0,Clothing
+5061,Dress is elegant but stitching came undone.,0,Clothing
+5062,Tablet screen is bright but battery drains fast.,0,Electronics
+5063,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+5064,The blender stopped working within a week.,0,Home Appliances
+5065,Scarf material feels luxurious and soft.,1,Clothing
+5066,Speakers deliver rich bass and clear mids.,0,Electronics
+5067,Summer hat is lightweight and breathable.,0,Clothing
+5068,Dress is elegant but stitching came undone.,0,Clothing
+5069,Summer hat is lightweight and breathable.,0,Clothing
+5070,Air purifier reduces dust but is too loud.,1,Home Appliances
+5071,The shirt was too tight and shrank after one wash.,0,Clothing
+5072,The shirt was too tight and shrank after one wash.,0,Clothing
+5073,Sneakers are trendy but soles wear out quickly.,1,Clothing
+5074,TV display quality is poor and remote stopped working.,0,Electronics
+5075,TV display quality is poor and remote stopped working.,0,Electronics
+5076,Toaster burns bread unevenly.,0,Home Appliances
+5077,Charger cable broke after a week of use.,0,Electronics
+5078,TV display quality is poor and remote stopped working.,0,Electronics
+5079,Amazing camera with high resolution photos!,1,Electronics
+5080,The phone works great and has excellent battery life.,1,Electronics
+5081,The phone works great and has excellent battery life.,1,Electronics
+5082,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+5083,TV display quality is poor and remote stopped working.,0,Electronics
+5084,Dress is elegant but stitching came undone.,0,Clothing
+5085,TV display quality is poor and remote stopped working.,0,Electronics
+5086,TV display quality is poor and remote stopped working.,0,Electronics
+5087,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+5088,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+5089,Scarf material feels luxurious and soft.,1,Clothing
+5090,Mixer is durable and works as expected.,1,Home Appliances
+5091,Sneakers are trendy but soles wear out quickly.,1,Clothing
+5092,Summer hat is lightweight and breathable.,0,Clothing
+5093,The fabric quality is cheap and the color faded.,0,Clothing
+5094,The jeans are very comfortable and fit perfectly.,1,Clothing
+5095,Monitor has vivid colors but occasional flicker.,1,Electronics
+5096,TV display quality is poor and remote stopped working.,0,Electronics
+5097,Charger cable broke after a week of use.,0,Electronics
+5098,Dress is elegant but stitching came undone.,0,Clothing
+5099,Smartwatch syncs well but screen is too small.,0,Electronics
+5100,Headphones are comfortable and have crisp sound.,1,Electronics

@@ -1,0 +1,301 @@
+ReviewID,Feedback,Sentiment,Product_Category
+1001,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1002,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1003,Headphones are comfortable and have crisp sound.,1,Electronics
+1004,Amazing camera with high resolution photos!,1,Electronics
+1005,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1006,Smartwatch syncs well but screen is too small.,0,Electronics
+1007,The shirt was too tight and shrank after one wash.,0,Clothing
+1008,Amazing camera with high resolution photos!,1,Electronics
+1009,Headphones are comfortable and have crisp sound.,1,Electronics
+1010,Toaster burns bread unevenly.,0,Home Appliances
+1011,Monitor has vivid colors but occasional flicker.,1,Electronics
+1012,Monitor has vivid colors but occasional flicker.,1,Electronics
+1013,Jacket keeps me warm and looks stylish.,1,Clothing
+1014,T-shirt print peeled off after first wash.,0,Clothing
+1015,The shirt was too tight and shrank after one wash.,0,Clothing
+1016,Speakers deliver rich bass and clear mids.,0,Electronics
+1017,Dress is elegant but stitching came undone.,0,Clothing
+1018,Headphones are comfortable and have crisp sound.,1,Electronics
+1019,The jeans are very comfortable and fit perfectly.,1,Clothing
+1020,Speakers deliver rich bass and clear mids.,0,Electronics
+1021,Tablet screen is bright but battery drains fast.,0,Electronics
+1022,T-shirt print peeled off after first wash.,0,Clothing
+1023,The shirt was too tight and shrank after one wash.,0,Clothing
+1024,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1025,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1026,The jeans are very comfortable and fit perfectly.,1,Clothing
+1027,Mixer is durable and works as expected.,1,Home Appliances
+1028,Toaster burns bread unevenly.,0,Home Appliances
+1029,T-shirt print peeled off after first wash.,0,Clothing
+1030,Amazing camera with high resolution photos!,1,Electronics
+1031,Headphones are comfortable and have crisp sound.,1,Electronics
+1032,The jeans are very comfortable and fit perfectly.,1,Clothing
+1033,Amazing camera with high resolution photos!,1,Electronics
+1034,Dress is elegant but stitching came undone.,0,Clothing
+1035,Socks are soft and durable.,1,Clothing
+1036,Tablet screen is bright but battery drains fast.,0,Electronics
+1037,Jacket keeps me warm and looks stylish.,1,Clothing
+1038,Mixer is durable and works as expected.,1,Home Appliances
+1039,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1040,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1041,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1042,Charger cable broke after a week of use.,0,Electronics
+1043,Dress is elegant but stitching came undone.,0,Clothing
+1044,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1045,Tablet screen is bright but battery drains fast.,0,Electronics
+1046,Headphones are comfortable and have crisp sound.,1,Electronics
+1047,Tablet screen is bright but battery drains fast.,0,Electronics
+1048,Dress is elegant but stitching came undone.,0,Clothing
+1049,Headphones are comfortable and have crisp sound.,1,Electronics
+1050,Air purifier reduces dust but is too loud.,1,Home Appliances
+1051,Charger cable broke after a week of use.,0,Electronics
+1052,Sneakers are trendy but soles wear out quickly.,1,Clothing
+1053,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1054,Headphones are comfortable and have crisp sound.,1,Electronics
+1055,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1056,Mixer is durable and works as expected.,1,Home Appliances
+1057,Toaster burns bread unevenly.,0,Home Appliances
+1058,T-shirt print peeled off after first wash.,0,Clothing
+1059,Socks are soft and durable.,1,Clothing
+1060,TV display quality is poor and remote stopped working.,0,Electronics
+1061,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1062,The phone works great and has excellent battery life.,1,Electronics
+1063,TV display quality is poor and remote stopped working.,0,Electronics
+1064,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1065,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+1066,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1067,Summer hat is lightweight and breathable.,0,Clothing
+1068,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1069,Mixer is durable and works as expected.,1,Home Appliances
+1070,The blender stopped working within a week.,0,Home Appliances
+1071,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1072,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1073,Socks are soft and durable.,1,Clothing
+1074,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1075,The fabric quality is cheap and the color faded.,0,Clothing
+1076,The shirt was too tight and shrank after one wash.,0,Clothing
+1077,Mixer is durable and works as expected.,1,Home Appliances
+1078,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1079,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1080,Mixer is durable and works as expected.,1,Home Appliances
+1081,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1082,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1083,Tablet screen is bright but battery drains fast.,0,Electronics
+1084,Monitor has vivid colors but occasional flicker.,1,Electronics
+1085,The blender stopped working within a week.,0,Home Appliances
+1086,Air purifier reduces dust but is too loud.,1,Home Appliances
+1087,The shirt was too tight and shrank after one wash.,0,Clothing
+1088,Tablet screen is bright but battery drains fast.,0,Electronics
+1089,Jacket keeps me warm and looks stylish.,1,Clothing
+1090,Headphones are comfortable and have crisp sound.,1,Electronics
+1091,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1092,Charger cable broke after a week of use.,0,Electronics
+1093,Monitor has vivid colors but occasional flicker.,1,Electronics
+1094,TV display quality is poor and remote stopped working.,0,Electronics
+1095,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1096,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1097,Scarf material feels luxurious and soft.,1,Clothing
+1098,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+1099,Monitor has vivid colors but occasional flicker.,1,Electronics
+1100,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1101,Mixer is durable and works as expected.,1,Home Appliances
+1102,Socks are soft and durable.,1,Clothing
+1103,Scarf material feels luxurious and soft.,1,Clothing
+1104,The jeans are very comfortable and fit perfectly.,1,Clothing
+1105,Headphones are comfortable and have crisp sound.,1,Electronics
+1106,Tablet screen is bright but battery drains fast.,0,Electronics
+1107,Smartwatch syncs well but screen is too small.,0,Electronics
+1108,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1109,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1110,Amazing camera with high resolution photos!,1,Electronics
+1111,The blender stopped working within a week.,0,Home Appliances
+1112,Amazing camera with high resolution photos!,1,Electronics
+1113,Tablet screen is bright but battery drains fast.,0,Electronics
+1114,Monitor has vivid colors but occasional flicker.,1,Electronics
+1115,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1116,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1117,Monitor has vivid colors but occasional flicker.,1,Electronics
+1118,Smartwatch syncs well but screen is too small.,0,Electronics
+1119,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1120,Charger cable broke after a week of use.,0,Electronics
+1121,Jacket keeps me warm and looks stylish.,1,Clothing
+1122,Amazing camera with high resolution photos!,1,Electronics
+1123,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+1124,Summer hat is lightweight and breathable.,0,Clothing
+1125,Sneakers are trendy but soles wear out quickly.,1,Clothing
+1126,The blender stopped working within a week.,0,Home Appliances
+1127,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1128,Speakers deliver rich bass and clear mids.,0,Electronics
+1129,Air purifier reduces dust but is too loud.,1,Home Appliances
+1130,Headphones are comfortable and have crisp sound.,1,Electronics
+1131,Headphones are comfortable and have crisp sound.,1,Electronics
+1132,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1133,Speakers deliver rich bass and clear mids.,0,Electronics
+1134,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1135,Jacket keeps me warm and looks stylish.,1,Clothing
+1136,Charger cable broke after a week of use.,0,Electronics
+1137,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1138,Monitor has vivid colors but occasional flicker.,1,Electronics
+1139,Amazing camera with high resolution photos!,1,Electronics
+1140,TV display quality is poor and remote stopped working.,0,Electronics
+1141,Sneakers are trendy but soles wear out quickly.,1,Clothing
+1142,Jacket keeps me warm and looks stylish.,1,Clothing
+1143,The shirt was too tight and shrank after one wash.,0,Clothing
+1144,Speakers deliver rich bass and clear mids.,0,Electronics
+1145,Speakers deliver rich bass and clear mids.,0,Electronics
+1146,Sneakers are trendy but soles wear out quickly.,1,Clothing
+1147,Summer hat is lightweight and breathable.,0,Clothing
+1148,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1149,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1150,Headphones are comfortable and have crisp sound.,1,Electronics
+1151,Jacket keeps me warm and looks stylish.,1,Clothing
+1152,Smartwatch syncs well but screen is too small.,0,Electronics
+1153,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1154,Tablet screen is bright but battery drains fast.,0,Electronics
+1155,The phone works great and has excellent battery life.,1,Electronics
+1156,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1157,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1158,The phone works great and has excellent battery life.,1,Electronics
+1159,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1160,Amazing camera with high resolution photos!,1,Electronics
+1161,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1162,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1163,The jeans are very comfortable and fit perfectly.,1,Clothing
+1164,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1165,Toaster burns bread unevenly.,0,Home Appliances
+1166,Smartwatch syncs well but screen is too small.,0,Electronics
+1167,Speakers deliver rich bass and clear mids.,0,Electronics
+1168,Toaster burns bread unevenly.,0,Home Appliances
+1169,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1170,Dress is elegant but stitching came undone.,0,Clothing
+1171,Tablet screen is bright but battery drains fast.,0,Electronics
+1172,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1173,The fabric quality is cheap and the color faded.,0,Clothing
+1174,Mixer is durable and works as expected.,1,Home Appliances
+1175,Socks are soft and durable.,1,Clothing
+1176,The phone works great and has excellent battery life.,1,Electronics
+1177,T-shirt print peeled off after first wash.,0,Clothing
+1178,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1179,Monitor has vivid colors but occasional flicker.,1,Electronics
+1180,Monitor has vivid colors but occasional flicker.,1,Electronics
+1181,The fabric quality is cheap and the color faded.,0,Clothing
+1182,The jeans are very comfortable and fit perfectly.,1,Clothing
+1183,Tablet screen is bright but battery drains fast.,0,Electronics
+1184,The fabric quality is cheap and the color faded.,0,Clothing
+1185,Scarf material feels luxurious and soft.,1,Clothing
+1186,Mixer is durable and works as expected.,1,Home Appliances
+1187,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1188,Monitor has vivid colors but occasional flicker.,1,Electronics
+1189,The jeans are very comfortable and fit perfectly.,1,Clothing
+1190,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1191,Amazing camera with high resolution photos!,1,Electronics
+1192,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1193,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1194,T-shirt print peeled off after first wash.,0,Clothing
+1195,Tablet screen is bright but battery drains fast.,0,Electronics
+1196,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1197,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1198,The shirt was too tight and shrank after one wash.,0,Clothing
+1199,Speakers deliver rich bass and clear mids.,0,Electronics
+1200,The shirt was too tight and shrank after one wash.,0,Clothing
+1201,Tablet screen is bright but battery drains fast.,0,Electronics
+1202,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1203,Charger cable broke after a week of use.,0,Electronics
+1204,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+1205,The blender stopped working within a week.,0,Home Appliances
+1206,Amazing camera with high resolution photos!,1,Electronics
+1207,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1208,The blender stopped working within a week.,0,Home Appliances
+1209,T-shirt print peeled off after first wash.,0,Clothing
+1210,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1211,The fabric quality is cheap and the color faded.,0,Clothing
+1212,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1213,The shirt was too tight and shrank after one wash.,0,Clothing
+1214,Jacket keeps me warm and looks stylish.,1,Clothing
+1215,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1216,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1217,Scarf material feels luxurious and soft.,1,Clothing
+1218,T-shirt print peeled off after first wash.,0,Clothing
+1219,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1220,TV display quality is poor and remote stopped working.,0,Electronics
+1221,Speakers deliver rich bass and clear mids.,0,Electronics
+1222,TV display quality is poor and remote stopped working.,0,Electronics
+1223,Air purifier reduces dust but is too loud.,1,Home Appliances
+1224,Jacket keeps me warm and looks stylish.,1,Clothing
+1225,The fabric quality is cheap and the color faded.,0,Clothing
+1226,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1227,The shirt was too tight and shrank after one wash.,0,Clothing
+1228,Jacket keeps me warm and looks stylish.,1,Clothing
+1229,Charger cable broke after a week of use.,0,Electronics
+1230,Dress is elegant but stitching came undone.,0,Clothing
+1231,Headphones are comfortable and have crisp sound.,1,Electronics
+1232,Headphones are comfortable and have crisp sound.,1,Electronics
+1233,Socks are soft and durable.,1,Clothing
+1234,The jeans are very comfortable and fit perfectly.,1,Clothing
+1235,Socks are soft and durable.,1,Clothing
+1236,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1237,Scarf material feels luxurious and soft.,1,Clothing
+1238,The shirt was too tight and shrank after one wash.,0,Clothing
+1239,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1240,Smartwatch syncs well but screen is too small.,0,Electronics
+1241,The shirt was too tight and shrank after one wash.,0,Clothing
+1242,Smartwatch syncs well but screen is too small.,0,Electronics
+1243,Socks are soft and durable.,1,Clothing
+1244,Air purifier reduces dust but is too loud.,1,Home Appliances
+1245,T-shirt print peeled off after first wash.,0,Clothing
+1246,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1247,T-shirt print peeled off after first wash.,0,Clothing
+1248,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1249,Speakers deliver rich bass and clear mids.,0,Electronics
+1250,Monitor has vivid colors but occasional flicker.,1,Electronics
+1251,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1252,Summer hat is lightweight and breathable.,0,Clothing
+1253,Tablet screen is bright but battery drains fast.,0,Electronics
+1254,Air purifier reduces dust but is too loud.,1,Home Appliances
+1255,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1256,Mixer is durable and works as expected.,1,Home Appliances
+1257,Mixer is durable and works as expected.,1,Home Appliances
+1258,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+1259,Summer hat is lightweight and breathable.,0,Clothing
+1260,Mixer is durable and works as expected.,1,Home Appliances
+1261,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1262,Speakers deliver rich bass and clear mids.,0,Electronics
+1263,Coffee maker brews quickly but leaks occasionally.,0,Home Appliances
+1264,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1265,Toaster burns bread unevenly.,0,Home Appliances
+1266,Summer hat is lightweight and breathable.,0,Clothing
+1267,The blender stopped working within a week.,0,Home Appliances
+1268,Dress is elegant but stitching came undone.,0,Clothing
+1269,Speakers deliver rich bass and clear mids.,0,Electronics
+1270,Toaster burns bread unevenly.,0,Home Appliances
+1271,Air purifier reduces dust but is too loud.,1,Home Appliances
+1272,Sneakers are trendy but soles wear out quickly.,1,Clothing
+1273,Jacket keeps me warm and looks stylish.,1,Clothing
+1274,Refrigerator maintains temperature well but seals are faulty.,0,Home Appliances
+1275,Microwave is user-friendly and heats food evenly.,1,Home Appliances
+1276,This vacuum cleaner picks up dirt really well.,0,Home Appliances
+1277,Scarf material feels luxurious and soft.,1,Clothing
+1278,Toaster burns bread unevenly.,0,Home Appliances
+1279,The jeans are very comfortable and fit perfectly.,1,Clothing
+1280,Laptop runs smoothly but gets warm under heavy load.,1,Electronics
+1281,Headphones are comfortable and have crisp sound.,1,Electronics
+1282,The phone works great and has excellent battery life.,1,Electronics
+1283,Headphones are comfortable and have crisp sound.,1,Electronics
+1284,T-shirt print peeled off after first wash.,0,Clothing
+1285,Charger cable broke after a week of use.,0,Electronics
+1286,T-shirt print peeled off after first wash.,0,Clothing
+1287,Speakers deliver rich bass and clear mids.,0,Electronics
+1288,Summer hat is lightweight and breathable.,0,Clothing
+1289,TV display quality is poor and remote stopped working.,0,Electronics
+1290,The blender stopped working within a week.,0,Home Appliances
+1291,Speakers deliver rich bass and clear mids.,0,Electronics
+1292,TV display quality is poor and remote stopped working.,0,Electronics
+1293,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1294,The shirt was too tight and shrank after one wash.,0,Clothing
+1295,The washing machine is noisy and vibrates a lot.,0,Home Appliances
+1296,Charger cable broke after a week of use.,0,Electronics
+1297,Charger cable broke after a week of use.,0,Electronics
+1298,Dishwasher cleans thoroughly but doesn't dry dishes.,0,Home Appliances
+1299,Toaster burns bread unevenly.,0,Home Appliances
+1300,Sneakers are trendy but soles wear out quickly.,1,Clothing
